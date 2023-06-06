@@ -4,14 +4,7 @@
 This project is based on Deep Learning (ResNET50) and Machine Learning. 
 It is similar to the google and amazon image search option, where 
 you can upload any image and get the recommendation similar
-to the given image. In this project we use Myntra and Amazon image dataset 
-from kaggle which include watches, shoes, colths. As an update
-we can train this model with other datasets also like furniture, cars, etc.
-
-```ResNET50``` ```Convolutional neural network (CNN)```
-\
-``` K-Nearest Neighbors Algorithm (KNN)``` ```Streamlit```
-
+to the given image.
 
 ## Run Locally
 

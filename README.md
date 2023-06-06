@@ -6,6 +6,10 @@ It is similar to the google and amazon image search option, where
 you can upload any image and get the recommendation similar
 to the given image.
 
+alternative implementation:
+https://codelabs.towhee.io/build-a-reverse-image-search-engine-in-minutes/index
+
+
 ## Run Locally
 
 Clone the project
